@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"database","l":"Database"},{"p":"entityClasses","l":"Post"},{"p":"entityClasses","l":"PostList"},{"p":"entityClasses","l":"Reply"},{"p":"entityClasses","l":"ReplyList"},{"p":"tester","l":"studentTests"},{"p":"entityClasses","l":"User"}];updateSearchResults();
